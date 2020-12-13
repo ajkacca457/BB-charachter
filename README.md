@@ -15,7 +15,7 @@ This is a javascript project to fetch data from external data using ajax and xml
 - Breakingbad api
 
 <h2>Live Demo</h2>
-https://combinationlock.netlify.app/
+https://bbcharachter.netlify.app/
 
 <h2>Getting Started</h2>
 To get a local copy up and running follow these simple example steps.
