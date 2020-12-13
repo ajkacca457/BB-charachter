@@ -1,6 +1,6 @@
 # BB-charachter
 
-This is a javascript project to fetch data from external data using ajax and xmlhttprequest. This app that allows user to find out what breaking bad character he or she is. This app uses ajax to send request, get data and to display the contents.
+This is a javascript project to fetch data from external data using ajax and xmlhttprequest. This app allows user to find out what breaking bad character he or she is. This app uses ajax to send request, get data and to display the contents.
 
 <img src="picture1.PNG" alt="projectimg">
 
