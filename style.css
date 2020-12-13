@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 100%;
+  background-color: rgba(248, 199, 171, 1);
+}
+
+
+img {
+  max-width:50%;
+  max-height:50%;
+  margin: auto;
+}
